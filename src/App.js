@@ -2,6 +2,9 @@
 
 Mehmet Yagiz Maktav 09/08/22 
 
+PROJECT WEB SITE :   akinsoftjobtest.netlify.app
+
+
 Selamlar Hazır kütüphane olarak antd kullanmamin daha kolay olmasi ve
 herhangi bir koşul koymadığınız için kullandım ama ellede responsive 
 yapmami isterseniz yapabilirim  yapabilirim.
