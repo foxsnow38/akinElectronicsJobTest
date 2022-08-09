@@ -1,5 +1,5 @@
 <b>Sayın Yağız MAKTAV,<u></u><u></u></b></p><p class="MsoNormal" style="margin-bottom:8.0pt;text-align:justify;line-height:105%"><b><u></u>&nbsp;<u></u></b></p><p 
-### Website: site
+### Website: www.akinsoftjobtest.netlify.app
 ### Task : https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzGqPphQkKPzGDGWqcwtcVDGKGKq?projector=1&messagePartId=0.1
 
 
